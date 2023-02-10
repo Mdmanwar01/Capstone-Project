@@ -13,6 +13,7 @@ import Pricing from './components/Pricing';
 import Join from './components/Join';
 import Footer from './components/Footer';
 
+
 const App = () => {
   // aos initialization
   Aos.init({

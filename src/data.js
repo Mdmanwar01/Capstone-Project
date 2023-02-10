@@ -25,7 +25,7 @@ export const nav = [
   { name: 'Workouts', href: '/' },
   { name: 'Pricing', href: '/' },
   { name: 'Contact Us', href: '/' },
-  { name: 'Review', href: '/' },
+  // { name: 'Review', href: '/' },
 ];
 
 export const banner = {
