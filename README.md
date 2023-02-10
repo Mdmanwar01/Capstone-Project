@@ -1,8 +1,6 @@
-# Getting Started with Create React App
-## The Project is published here https://mdmanwar01.github.io/Capstone-Project/
+# The Project is published here https://mdmanwar01.github.io/Capstone-Project/
 
-
-
+## Getting Started with Create React App
 
 
 
